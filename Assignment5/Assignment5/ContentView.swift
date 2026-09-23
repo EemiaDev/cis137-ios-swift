@@ -1,8 +1,7 @@
 //
-//  ContentView.swift
 //  Assignment5
-//
-//  Created by Aimee Jin on 9/22/26.
+//  Aimee Jin
+//  9/22/26
 //
 
 import SwiftUI
@@ -10,12 +9,14 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello, I'm Aimee!")
+                .font(.largeTitle)
+                .foregroundColor(Color.blue)
+                .padding()
+            Image("Profile").resizable()
+                .scaledToFit()
+                .padding()
         }
-        .padding()
     }
 }
 
