@@ -11,7 +11,7 @@ struct ContentView: View {
         VStack {
             Text("Hello, I'm Aimee!")
                 .font(.largeTitle)
-                .foregroundColor(Color.blue)
+                .foregroundStyle(.blue)
                 .padding()
             Image("Profile").resizable()
                 .scaledToFit()
