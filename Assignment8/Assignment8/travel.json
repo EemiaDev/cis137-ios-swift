@@ -1,37 +1,109 @@
 [
   {
-    "id": "E34D6A43-06C0-4E4B-8AA8-42DA0766AB7E",
-    "name": "Destinations",
+    "id": "803F1297-148E-46B7-A22A-0D03D506BD80",
+    "name": "Maui, Hawaii",
     "items": [
       {
-        "id": "CA8281EE-FC76-4F15-BC71-0844DA06009C",
-        "name": "Maui, Hawaii",
+        "id": "47B080E5-9A0D-40EA-B763-BB33905D248C",
+        "name": "Road to Hana",
         "photoCredit": "Aimee Jin",
-        "price": 1800,
+        "price": 0,
         "restrictions": [
-          "Beach"
+          "Scenic Drive"
         ],
-        "description": "Drive the winding Road to Hana, watch the sunrise above the clouds at Haleakalā, and snorkel with sea turtles at Molokini Crater. Best visited from April to May or September to November."
+        "description": "A winding coastal drive past waterfalls, black sand beaches, and rainforest. Start early to beat the traffic."
       },
       {
-        "id": "A8B60BEF-5736-44CD-8E5E-E9D16A8F909A",
-        "name": "Southern Utah",
+        "id": "FC29FEAE-B62D-487E-A5E2-EDAFF63B8BAC",
+        "name": "Haleakala Crater",
         "photoCredit": "Aimee Jin",
-        "price": 1200,
+        "price": 30,
         "restrictions": [
           "Hiking"
         ],
-        "description": "Hike the Narrows and Angels Landing in Zion, then see the red rock arches of Arches National Park. Spring and fall bring the mildest hiking weather."
+        "description": "Watch the sunrise above the clouds from the summit of a dormant volcano. Sunrise visits need a reservation."
       },
       {
-        "id": "81EB4433-9E5A-4233-BC34-FEE796F2A67F",
-        "name": "New York City",
+        "id": "1FB5FD3A-0FE3-4EA9-932B-E0D18B6C011E",
+        "name": "Molokini Crater",
         "photoCredit": "Aimee Jin",
-        "price": 2000,
+        "price": 150,
         "restrictions": [
-          "City"
+          "Snorkeling"
         ],
-        "description": "Walk Central Park, catch a Broadway show, and spend an afternoon at the Met. Fall brings crisp weather and colorful leaves in the park."
+        "description": "A half-sunken volcanic crater with clear water, tropical fish, and sea turtles. Reached by boat tour."
+      }
+    ]
+  },
+  {
+    "id": "415355C4-D93F-432D-8F22-46CADDA572AF",
+    "name": "Southern Utah",
+    "items": [
+      {
+        "id": "82FEE091-9D26-4472-A8DD-94764A0293F0",
+        "name": "Zion National Park",
+        "photoCredit": "Aimee Jin",
+        "price": 35,
+        "restrictions": [
+          "Hiking"
+        ],
+        "description": "Hike the Narrows through a slot canyon river or climb to the view at Angels Landing."
+      },
+      {
+        "id": "3028BDB0-0B8B-4CCF-87DE-14B8F7191981",
+        "name": "Arches National Park",
+        "photoCredit": "Aimee Jin",
+        "price": 30,
+        "restrictions": [
+          "Hiking"
+        ],
+        "description": "Over 2,000 natural stone arches, including the famous Delicate Arch at sunset."
+      },
+      {
+        "id": "0ABD2273-EBB8-4A72-B5EC-704E3B06D279",
+        "name": "Bryce Canyon",
+        "photoCredit": "Aimee Jin",
+        "price": 35,
+        "restrictions": [
+          "Hiking"
+        ],
+        "description": "A canyon filled with orange rock spires called hoodoos. Sunrise Point lives up to its name."
+      }
+    ]
+  },
+  {
+    "id": "5C9F0D8A-7583-453E-8D6F-1C1E94FCB99F",
+    "name": "New York City",
+    "items": [
+      {
+        "id": "B2FE0CC0-4279-4C15-BDD0-3D59EA2B235B",
+        "name": "Central Park",
+        "photoCredit": "Aimee Jin",
+        "price": 0,
+        "restrictions": [
+          "Outdoors"
+        ],
+        "description": "Walk the Mall, rent a rowboat on the lake, or picnic on the Great Lawn."
+      },
+      {
+        "id": "C0D595B6-1076-452C-B2AE-7E3C0ED2B5F2",
+        "name": "Statue of Liberty",
+        "photoCredit": "Aimee Jin",
+        "price": 25,
+        "restrictions": [
+          "Landmark"
+        ],
+        "description": "Take the ferry to Liberty Island for close-up views and a stop at Ellis Island."
+      },
+      {
+        "id": "A0B0F6B1-D4C6-46AC-A8A1-E19C4B2013D3",
+        "name": "The Met",
+        "photoCredit": "Aimee Jin",
+        "price": 30,
+        "restrictions": [
+          "Museum"
+        ],
+        "description": "One of the largest art museums in the world, with collections spanning 5,000 years."
       }
     ]
   }
