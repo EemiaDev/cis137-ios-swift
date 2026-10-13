@@ -1,0 +1,38 @@
+[
+  {
+    "id": "E34D6A43-06C0-4E4B-8AA8-42DA0766AB7E",
+    "name": "Destinations",
+    "items": [
+      {
+        "id": "CA8281EE-FC76-4F15-BC71-0844DA06009C",
+        "name": "Maui, Hawaii",
+        "photoCredit": "Aimee Jin",
+        "price": 1800,
+        "restrictions": [
+          "Beach"
+        ],
+        "description": "Drive the winding Road to Hana, watch the sunrise above the clouds at Haleakalā, and snorkel with sea turtles at Molokini Crater. Best visited from April to May or September to November."
+      },
+      {
+        "id": "A8B60BEF-5736-44CD-8E5E-E9D16A8F909A",
+        "name": "Southern Utah",
+        "photoCredit": "Aimee Jin",
+        "price": 1200,
+        "restrictions": [
+          "Hiking"
+        ],
+        "description": "Hike the Narrows and Angels Landing in Zion, then see the red rock arches of Arches National Park. Spring and fall bring the mildest hiking weather."
+      },
+      {
+        "id": "81EB4433-9E5A-4233-BC34-FEE796F2A67F",
+        "name": "New York City",
+        "photoCredit": "Aimee Jin",
+        "price": 2000,
+        "restrictions": [
+          "City"
+        ],
+        "description": "Walk Central Park, catch a Broadway show, and spend an afternoon at the Met. Fall brings crisp weather and colorful leaves in the park."
+      }
+    ]
+  }
+]
