@@ -60,12 +60,6 @@ struct DetailView: View {
 }
 
 
-
-
-
-
-
-
 #Preview {
     ContentView()
 }
