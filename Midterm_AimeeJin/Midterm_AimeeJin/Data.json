@@ -1,0 +1,30 @@
+[
+    {
+        "id": "001",
+        "day": 1,
+        "name": "Polynesian Cultural Center",
+        "description": "We started our trip with a scenic road trip up the windward coast to the Polynesian Cultural Center in Laie. We arrived around noon, just in time for the Huki Canoe Show, where performers glide across the lagoon on double-hulled canoes. Each canoe represents a different island, and the show celebrates the music, dance, and folklore of six Pacific island cultures. It was the perfect introduction to the history and spirit of Polynesia.",
+        "imageName": "day1"
+    },
+    {
+        "id": "002",
+        "day": 2,
+        "name": "Pearl Harbor",
+        "description": "Today had a military theme. We visited Pearl Harbor to learn about the events of December 7, 1941, the attack that drew the United States into World War II. Walking through the memorials was a quiet and moving experience, and it gave us a deeper appreciation for the history of the island. We wrapped up the day on a lighter note with a traditional luau, complete with Hawaiian food, music, and hula.",
+        "imageName": "day2"
+    },
+    {
+        "id": "003",
+        "day": 3,
+        "name": "Honolulu Sunset Sail",
+        "description": "After two full days, we slowed down with a relaxed day in Waikiki. We tasted local coffee, wandered the shops along the beach, and tried as much delicious food as we could. In the late afternoon, we boarded a catamaran to sail along the coast as the sun went down. Seeing Honolulu and Diamond Head from the water, with the sky turning orange and pink, was one of the most peaceful moments of the trip.",
+        "imageName": "day3"
+    },
+    {
+        "id": "004",
+        "day": 4,
+        "name": "Circle Island Tour",
+        "description": "Our last day was a busy one, driving around the island to explore its hidden gems. We stopped at breathtaking coastlines and lookout points along the way. On the North Shore, we enjoyed garlic shrimp and the famous shaved ice. The highlight was watching sea turtles swim and rest along the shore, a perfect ending to our time on Oahu.",
+        "imageName": "day4"
+    }
+]
