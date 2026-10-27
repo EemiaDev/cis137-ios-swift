@@ -4,7 +4,7 @@ A SwiftUI iOS app that turns my 4-day Oahu itinerary into a digital travel diary
 
 ## Demo Video
 
-VIDEO_HERE
+https://github.com/user-attachments/assets/2778521d-0e26-412a-8212-230d5c93a757
 
 ## How to Use the App
 
